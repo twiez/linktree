@@ -2,7 +2,7 @@
 
 Bu proje, **twiez**'in sosyal medya ve profesyonel profillerini tek bir platformda sergileyen **Linktree tarzı** bir kişisel web sitesidir. Minimalist, retro bir tasarıma ve piksel sanatı temalı bir arka plana sahip olup, sosyal medya bağlantılarına kolay erişim sağlar.
 
-![Ekran Görüntüsü](screenshot.png)  <!-- Projenizin ekran görüntüsünü buraya ekleyin -->
+![Ekran Görüntüsü](mountain.jpg)  <!-- Projenizin ekran görüntüsünü buraya ekleyin -->
 
 ## Özellikler
 - **Linktree Düzeni**: Çeşitli platformlar için basit ve sezgisel butonlar.
