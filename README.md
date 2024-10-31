@@ -1,6 +1,6 @@
 # Linktree Tarzı Kişisel Web Sitesi
 
-Bu proje, **twiez**'in sosyal medya ve profesyonel profillerini tek bir platformda sergileyen **Linktree tarzı** bir kişisel web sitesidir. Minimalist, retro bir tasarıma ve piksel sanatı temalı bir arka plana sahip olup, sosyal medya bağlantılarına kolay erişim sağlar.
+Bu proje, sosyal medya ve profesyonel profillerini tek bir platformda sergileyen **Linktree tarzı** bir kişisel web sitesidir. Minimalist, retro bir tasarıma ve piksel sanatı temalı bir arka plana sahip olup, sosyal medya bağlantılarına kolay erişim sağlar.
 
 ![Ekran Görüntüsü](show.jpg)  <!-- Projenizin ekran görüntüsünü buraya ekleyin -->
 
@@ -10,7 +10,7 @@ Bu proje, **twiez**'in sosyal medya ve profesyonel profillerini tek bir platform
 - **Hızlı Sosyal Profil Bağlantıları**: Instagram, LinkedIn, GitHub, TryHackMe ve Twitter'a doğrudan erişim.
 - **Profil Başlığı**: Geliştirici, CTF Oyuncusu ve Pentester gibi rolleri gösteren bir profil resmi ve açıklama.
 
-## Kullanılan Teknolojiler
+## Kullanılan Diller
 - **HTML**
 - **CSS**
 - **JavaScript**
