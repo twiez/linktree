@@ -1,6 +1,7 @@
 # Linktree Tarzı Kişisel Web Sitesi
 
 Bu proje, sosyal medya ve profesyonel profillerini tek bir platformda sergileyen **Linktree tarzı** bir kişisel web sitesidir. Minimalist, retro bir tasarıma ve piksel sanatı temalı bir arka plana sahip olup, sosyal medya bağlantılarına kolay erişim sağlar.
+ > canlı görüntülemek için demo https://linktreetht.netlify.app/
 
 ![Ekran Görüntüsü](show.jpg)  <!-- Projenizin ekran görüntüsünü buraya ekleyin -->
 
